@@ -1,0 +1,108 @@
+words you might not know that im gonna say a lot:
+  trustless: the ability to transact value without having to trust the counterparty
+  layer1: a blockchain's native software stack
+  layer2: any software built "on top of" a layer1 protocol.  usually in order to handle some operation the layer1
+    is lackluster at.
+  dex: decentralized exchange
+  cex (SEX): centralized exchange
+  dapp: Decentralized Application
+  coin: the basic unit of value a layer 1 blockchain supports
+    examples:
+    - Bitcoin: (BTC)
+    - Ethereum: (ETH)
+    - Cosmos: (ATOM)
+  token: an abstraction around ... whatever ... that provides a common interface to faciltate
+      for operations like atomic swaps to occur on the layer 1.  This is is not a coin.  Mai
+
+  common confusion points:
+    https://www.bitdegree.org/tutorials/token-vs-coin-whats-difference/
+
+
+
+
+wallet basics:
+  - mnemonic phrase: 12/16/24 words that form basis of all key derivations
+  - private key: can unlock only the specific resources associated with the public key associated with it
+
+
+
+
+browser extensions (brave):
+  - math wallet (set this to not interfere with metamask in the settings)
+  - metamask
+  - lastpass
+  - ipfs
+  - session buddy
+
+
+
+
+market overview:
+  - coingecko.com
+  - nomics.com
+  - cryptowat.ch
+  - app.intotheblock.com
+  - tradingview.com
+  - finviz.com
+
+
+
+Credit Cards:
+  - Crypto.com
+  - Uphold
+  - Non-Us (currently):
+    - Nexo, Plutus, Revolut, Monolith
+  Soon arriving:
+    - Binance (whitelabel of Swipe (SXP)’s card)
+
+
+
+wallets:
+  - multichain:
+    - desktop:
+        - guarda
+        - jaxx
+        - edge
+        - exodus
+        - coinbase
+        - trust
+  - ETH:
+      - myetherwallet (MEW)
+      - mycrypto
+  - iphone:
+
+
+
+iphone apps:
+  - coinstats.app
+
+portfolio trackers:
+  - zapper.fi
+  - zerion.io
+  - blockfolio
+  - accointing.info
+
+
+
+APIs:
+- The Graph
+⁃ Dune
+
+
+sites:
+  exchanges:
+    centralized:
+    decentralized [you retain control of your funds]
+
+
+
+
+
+
+
+
+
+best of the best sites:
+  - https://www.cryptoatlas.io/directory
+
+
